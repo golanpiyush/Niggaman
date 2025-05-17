@@ -1,6 +1,6 @@
 # 🎮 NIGAAMAN: Game Link Finder Bot
 
-**NIGAAMAN** is a no-BS AI-powered game link finder made by **Flywich**.  
+**NIGAAMAN** is a no-BS AI-powered game link finder.  
 It intelligently scrapes **FitGirl**, **DODI**, and **Game3rb** to get direct, filtered, and prioritized download links for PC games — fast and without fluff.
 
 > 🧠 Designed to act like a smart, sharp assistant — not a moral philosopher.  
