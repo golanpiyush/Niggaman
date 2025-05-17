@@ -95,7 +95,7 @@ def safe_request(method, url, **kwargs):
 
 # Load API keys from config file or environment
 def load_config():
-    config = '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'
+    config = 'sk-or-v1'
     api_key = config
     return api_key
 
