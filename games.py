@@ -12,7 +12,7 @@ from difflib import SequenceMatcher
 # OpenRouter client
 client = OpenAI(
     base_url="https://openrouter.ai/api/v1",
-    api_key="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",
+    api_key="",
 )
 
 console = Console()
