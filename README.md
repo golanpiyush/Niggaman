@@ -112,7 +112,7 @@ OPENROUTER_API_KEY=sk-yourkeyhere
 💾 Size: 48.2 GB
 
 
-####📈 Planned Improvements
+### 📈 Planned Improvements
 
 ```
 🧠 AI reranking via OpenRouter API
@@ -131,7 +131,7 @@ OPENROUTER_API_KEY=sk-yourkeyhere
 ```
 ----------
 
-####📦 Installation
+#### 📦 Installation
 🐍 Requires Python 3.8+
 ```
 git clone https://github.com/golnpiyush/niggaman
