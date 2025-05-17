@@ -139,9 +139,9 @@ cd nigaaman
 pip install -r requirements.txt
 python games.py
 ```
-###🧑‍💻 Developed By
+### 🧑‍💻 Developed By
 Piyush Golan
 -------
-####⚖️ License
+#### ⚖️ License
 Licensed under the MIT License.
 See the LICENSE file for details.
