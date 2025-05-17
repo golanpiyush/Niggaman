@@ -139,6 +139,11 @@ cd nigaaman
 pip install -r requirements.txt
 python games.py
 ```
+### or
+```
+Download the exe file from the **releases tab**
+ONLY FOR WINDOWS, LINUX COMING SOON!
+```
 ### 🧑‍💻 Developed By
 Piyush Golan
 -------
