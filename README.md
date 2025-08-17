@@ -27,7 +27,6 @@ It intelligently scrapes **FitGirl**, **DODI**, and **Game3rb** to get direct, f
 
 - Pretends it is **not an AI**, just a "search bot"
 - Filters out **non-search messages**
-- Acts like an assistant **made by Flywich**, not a public chatbot
 - Never explains ethics or piracy laws
 - Gives **one clean answer** per query with relevant data only
 
